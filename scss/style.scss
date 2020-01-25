@@ -1,0 +1,52 @@
+
+.container {
+     text-align: center;
+   }
+   h1 {
+     text-transform: capitalize;
+     font-weight: 600;
+   }
+   p {
+     color: #666;
+   }
+   .container {
+     padding: 70px 0;
+   }
+   .single-item-box {
+     margin-top: 50px;
+   }
+   .box-img img {
+     width: 100%;
+   }
+   .box-img {
+     position: relative;
+   }
+   h2 {
+     margin: 0;
+     background: #F97230;
+     color: #fff;
+     padding: 13px 0;
+     font-weight: 700;
+     font-size: 22px;
+     position: absolute;
+     left: 7%;
+     right: 7%;
+     bottom: -10%;
+   }
+   .card-body p {
+     margin-top: 26px;
+   }
+   .card-body a {
+     text-transform: capitalize;
+     font-size: 16px;
+     color: #444;
+     padding: 14px;
+     display: inline-block;
+     text-decoration: none;
+   }
+   .card-body i {
+     font-size: 22px;
+     text-align: center;
+     margin: 0;
+     padding: 0;
+   }
